@@ -1,2 +1,3 @@
 # MeshiLog
-Log of Meal
+## Log of Meal
+- 食事を記録するアプリ
