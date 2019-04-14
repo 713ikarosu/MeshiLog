@@ -1,0 +1,22 @@
+{
+  "name": "meshilog",
+  "version": "1.0.0",
+  "description": "Log of Meshi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/713ikarosu/MeshiLog.git"
+  },
+  "author": "ikarosu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/713ikarosu/MeshiLog/issues"
+  },
+  "homepage": "https://github.com/713ikarosu/MeshiLog#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
