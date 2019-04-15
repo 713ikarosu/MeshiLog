@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "node ./bin/www",
-    "start": "babel-node server/server.js"
+    "start": "node ./bin/www",
+    "dev": "babel-node server/server.js"
   },
   "dependencies": {
     "@babel/core": "^7.4.3",
