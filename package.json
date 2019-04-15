@@ -7,8 +7,9 @@
     "dev": "babel-node server/server.js"
   },
   "dependencies": {
-    "babel-core": "^6.26.3",
-    "babel-preset-env": "^1.7.0",
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
@@ -21,6 +22,12 @@
     "react-scripts": "^2.1.8"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0"
+    "@babel/node": "^7.2.2",
+    "babel-loader": "^8.0.5",
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4",
+    "webpack": "^4.30.0",
+    "webpack-dev-middleware": "^3.6.2",
+    "webpack-hot-middleware": "^2.24.3"
   }
 }
